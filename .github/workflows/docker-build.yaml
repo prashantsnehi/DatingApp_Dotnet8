@@ -26,5 +26,5 @@ jobs:
         with: 
           context: .
           push: true
-          tags: psnehi/dating-app-api:v2
+          tags: psnehi/dating-app-api:v3
     
